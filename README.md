@@ -1,13 +1,13 @@
-Portfolio Website
+**Portfolio Website**  
 My personal portfolio website to showcase my projects, skills, and contact information.
 
-Built With
+**Built With**
 - HTML
 - CSS
 - JavaScript
 
- Purpose
+ **Purpose**  
 To demonstrate my front-end skills and share my developer profile online.
 
-Author
+**Author**  
 Anita Pant
